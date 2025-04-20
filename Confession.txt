@@ -1,0 +1,2 @@
+- got consistent (same output) with same seed values.
+-
